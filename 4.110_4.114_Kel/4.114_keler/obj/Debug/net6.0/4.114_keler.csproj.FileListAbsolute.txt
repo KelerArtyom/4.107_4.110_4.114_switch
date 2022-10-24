@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\bin\Debug\net6.0\4.114_keler.exe
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\bin\Debug\net6.0\4.114_keler.deps.json
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\bin\Debug\net6.0\4.114_keler.runtimeconfig.json
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\bin\Debug\net6.0\4.114_keler.dll
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\bin\Debug\net6.0\4.114_keler.pdb
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.AssemblyInfo.cs
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.dll
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\refint\4.114_keler.dll
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.pdb
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\4.114_keler.genruntimeconfig.cache
+C:\Users\artem\source\repos\4.110_Kel\4.114_keler\obj\Debug\net6.0\ref\4.114_keler.dll

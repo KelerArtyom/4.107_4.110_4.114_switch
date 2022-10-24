@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\bin\Debug\net6.0\4.107_Кеl.exe
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\bin\Debug\net6.0\4.107_Кеl.deps.json
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\bin\Debug\net6.0\4.107_Кеl.runtimeconfig.json
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\bin\Debug\net6.0\4.107_Кеl.dll
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\bin\Debug\net6.0\4.107_Кеl.pdb
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.AssemblyInfo.cs
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.dll
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\refint\4.107_Кеl.dll
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.pdb
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\4.107_Кеl.genruntimeconfig.cache
+C:\Users\artem\source\repos\4.107_Кеl\4.107_Кеl\obj\Debug\net6.0\ref\4.107_Кеl.dll
